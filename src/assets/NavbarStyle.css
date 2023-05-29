@@ -1,5 +1,5 @@
 .background-image {
-    background-image: url("src/assets/fondo-mamma.jpg");
+    background-image: url("../../public/imgs/fondo-mamma.jpg");
     width: 100%;
     height: 360px;
     background-size: cover;
